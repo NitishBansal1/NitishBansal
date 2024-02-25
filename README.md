@@ -1,3 +1,4 @@
+![logo](https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif)
 <h1 align="center">Hi 👋, I'm Nitish Bansal</h1>
 <h3 align="center">A passionate Web Application Developer from India</h3>
 
