@@ -1,4 +1,4 @@
-![logo](https://github.com/NitishBansal1/NitishBansal1/blob/main/Github%20Banner%204.png)
+![logo](https://github.com/NitishBansal1/NitishBansal1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nitish Bansal</h1>
 <h3 align="center">A passionate Web Application Developer from India</h3>
 
